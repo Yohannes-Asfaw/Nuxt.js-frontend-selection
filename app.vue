@@ -75,7 +75,7 @@
 <Wellcome/>
     <!-- Course Header -->
     
-<div id="fixed-card" class="hidden lg:block max-w-xs border border-gray-200 bg-white fixed right-[300px] z-30 top-[90px] lg:right-[300px] lg:top-[90px] transition-all duration-1000">
+<div id="fixed-card" class="hidden lg:block max-w-xs border border-gray-200 bg-white fixed right-[100px] z-30 top-[90px] lg:right-[100px] lg:top-[90px] transition-all duration-1000">
     <!-- Video Preview Section -->
     <div id="coursePreview" class="relative aspect-video bg-gray-900 transition-all duration-1000">
       <img 
